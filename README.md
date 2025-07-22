@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 المشروع 2: Profiler CLI App
+## 📁 Project 2: Profiler CLI App
 
 ### 📝 `README.md`:
 
